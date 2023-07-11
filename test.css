@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.test{
+    color: blue;
+    cursor: url("images/fail-but-never-quit-failure-never-give-up-motivational-8800x5000-7693.jpg");
+}
